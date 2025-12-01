@@ -19,4 +19,6 @@ function scissors(){
     updateOutput();
 }
 
-
+function goToHBD() {
+    window.location.href = "hbd.html"; // relative path
+}
